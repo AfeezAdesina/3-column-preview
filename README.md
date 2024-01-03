@@ -23,8 +23,8 @@ Results summary component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL:[ Frontendmentor.io](https://www.frontendmentor.io/solutions/blog-preview-page-dCZFQD-jmM)
-- Live Site URL:[Blog Preview](https://blog-preview-seven.vercel.app)
+- Solution URL:[ Frontendmentor.io](https://www.frontendmentor.io/solutions/3column-preview-card-xT_Kcfgzye)
+- Live Site URL:[Blog Preview](https://3-column-preview-gules.vercel.app/)
 
 ## My process
 
